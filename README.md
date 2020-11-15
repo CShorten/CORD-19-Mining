@@ -9,6 +9,10 @@ This repository contains some notebooks for processing the CORD-19 dataset, host
   <th><a href = "https://github.com/CShorten/CORD-19-Mining/blob/main/How_Papers_Are_Stored.ipynb"> How Papers Are Stored </a></th>
     <th> This notebook illustrates the JSON structure of each paper in the dataset </th>
   </tr>
+  <tr>
+    <th><a href = "https://github.com/CShorten/CORD-19-Mining/blob/main/Contrastive_Learning.ipynb"> Contrastive Learning </a>
+    </th>
+    <th> THis notebook loads the sequences and labels stored in a DataFrame, tokenizes them, and feeds it to siamese transformers for similarity loss </th>
 </table>
   
 <h2> Utilities to Data Preprocessing </h2>
