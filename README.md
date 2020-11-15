@@ -11,7 +11,7 @@ This repository contains some notebooks for processing the CORD-19 dataset, host
   </tr>
 </table>
   
-<h2> Small Utilities to Data Cleaning </h2>
+<h2> Utilities to Data Preprocessing </h2>
 <table>
    <tr>
      <th><a href = "https://github.com/CShorten/CORD-19-Mining/blob/main/Pdf_Json_Chunker.ipynb">Splitting up the pdf_json folder </a></th>
