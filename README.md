@@ -17,5 +17,10 @@ This repository contains some notebooks for processing the CORD-19 dataset, host
      <th><a href = "https://github.com/CShorten/CORD-19-Mining/blob/main/Pdf_Json_Chunker.ipynb">Splitting up the pdf_json folder </a></th>
      <th> This notebook splits up the pdf_json folder to make smaller files to load into colab </th>
   </tr>
+  <tr>
+     <th><a href = "https://github.com/CShorten/CORD-19-Mining/blob/main/Atomic_Unit_Construction.ipynb">Truncating Body Texts, Assigning Class Labels for each Paper </a></th>
+    <th> This notebook loops through the papers in the pdf_json folder, processes each body text for sequence inputs to the contrastive learning network, and it assigns a class label corresponding to paper membership </th>
+  </tr>
+  
   </table>
   
