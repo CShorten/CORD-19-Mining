@@ -28,3 +28,4 @@ This repository contains some notebooks for processing the CORD-19 dataset, host
   
   </table>
   
+  <style> {th: font-weight: normal; } </style>
