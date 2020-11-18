@@ -12,7 +12,7 @@ This repository contains some notebooks for processing the CORD-19 dataset, host
   <tr>
     <th><a href = "https://github.com/CShorten/CORD-19-Mining/blob/main/Contrastive_Learning.ipynb"> Contrastive Learning </a>
     </th>
-    <th style = "color:blue;"> This notebook loads the sequences and labels stored in a DataFrame, tokenizes them, and feeds it to siamese transformers for similarity loss </th>
+    <th style = "color:red;"> This notebook loads the sequences and labels stored in a DataFrame, tokenizes them, and feeds it to siamese transformers for similarity loss </th>
 </table>
   
 <h2> Utilities to Data Preprocessing </h2>
